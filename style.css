@@ -11,15 +11,16 @@ body {
     background-color: rgb(211, 87, 87);
     text-align: center;
     color: rgb(255, 255, 255);
-    height: 30%;
+    height: 24%;
     width: 40%;
     margin: 15% 19% 35% 25%;
-    font-size: 70px;
+    font-size: auto;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #clock {
     background-color: black;
-    height: 65%;
+    height: 100%;
     padding: 5%;
+    margin-top: 2%;
 }
